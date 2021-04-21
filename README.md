@@ -6,4 +6,5 @@ Implementing Data Structres and Algorithms in **JavaScript** ⭐
 
 * [Big O](https://github.com/ayushbali/JavaScript-DataStructures-and-Algorithms/tree/main/Big%20O)
 * [Problem Solving Approach](https://github.com/ayushbali/JavaScript-DataStructures-and-Algorithms/tree/main/Problem%20solving%20tips)
-
+* [Data Structures]()
+  * [Arrays](https://github.com/ayushbali/JavaScript-DataStructures-and-Algorithms/tree/main/Data%20Structures/Arrays)
